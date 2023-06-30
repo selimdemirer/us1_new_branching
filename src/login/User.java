@@ -7,4 +7,6 @@ public class User {
     //class updated
 
     //class completed
+
+    //user class completed again
 }
