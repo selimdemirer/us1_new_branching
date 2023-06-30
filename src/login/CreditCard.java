@@ -1,12 +1,10 @@
 package login;
 
-public class User {
+public class CreditCard {
 
     //class created
 
     //class updated
 
     //class completed
-
-    //user class completed again
 }
